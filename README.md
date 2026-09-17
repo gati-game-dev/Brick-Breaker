@@ -5,8 +5,9 @@ A classic **Breakout-style arcade game** built in **Unity and C#**, featuring mu
 The project started as a recreation of the classic Breakout formula and was expanded with additional gameplay systems to create a more complete multi-level arcade experience.
 
 <p align="center">
-  <img src="Screenshots/hero.png" width="800">
+  <img src="Screenshots/hero.png" width="600">
 </p>
+
 ---
 
 ## 🎮 Game Overview
@@ -94,15 +95,15 @@ Lose all your lives, and it's **Game Over**.
 
 ### ⚪ Three-Ball Power-Up
 
-![Three-Ball Power-Up](Screenshots/three-balls-powerup.png)
+<img src="Screenshots/three-balls-powerup.png" width="400">
 
 ### 🏓 Wide Paddle Power-Up
 
-![Wide Paddle Power-Up](Screenshots/wide-paddle-powerup.png)
+<img src="Screenshots/wide-paddle-powerup.png" width="400">
 
 ### 🗺️ Level 3
 
-![Level 3](Screenshots/game-over.png)
+<img src="Screenshots/game-over.png" width="400">
 
 ---
 
