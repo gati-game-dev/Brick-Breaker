@@ -4,6 +4,14 @@ A classic **Breakout-style arcade game** built in **Unity and C#**, featuring mu
 
 The project started as a recreation of the classic Breakout formula and was expanded with additional gameplay systems to create a more complete multi-level arcade experience.
 
+## Play the Game
+
+Download the Windows build:
+
+[Download Breakout v1.0.0](https://github.com/gati-game-dev/Brick-Breaker/releases/tag/v1.0.0)
+
+---
+
 <p align="center">
   <img src="Screenshots/hero.png" width="700">
 </p>
