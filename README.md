@@ -13,7 +13,7 @@ Download the Windows build:
 ---
 
 <p align="center">
-  <img src="Screenshots/breakoutgif.png" width="700">
+  <img src="Screenshots/breakoutgif.gif" width="700">
 </p>
 
 ---
